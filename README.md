@@ -3,6 +3,7 @@
 This a data repository concerning a Python based implementation (created in Spyder) of Polyak and Nesterov algorithms, along with graphical representations of the following :
 - contour plots of the given function (only for 2D)
 - energy and iterates decay for the algorithms
+- iteration bins for the two algorithms
 
 Objective mappings : 
 - a 1D convex function
