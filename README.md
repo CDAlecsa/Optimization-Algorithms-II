@@ -21,5 +21,3 @@ Optimization algorithms that are included in this repository :
 One can modify the inertial coefficients of these algorithms inside their numerical implementation and the given parameters that are set 
 to some default values.
 
-
-# Copyright © 2019 Cristian Daniel Alecsa
